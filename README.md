@@ -22,5 +22,6 @@ Simply open the index.html file and Go Live.
 
 Screenshots:
 
-
+![![2](https://user-images.githubusercontent.com/68350884/135491674-79263ef7-3c03-4cd3-bc46-4d012aff28e9.PNG)
+1](https://user-images.githubusercontent.com/68350884/135491631-a9c9ab39-125b-47dd-bef5-f9e78308441f.PNG)
 
