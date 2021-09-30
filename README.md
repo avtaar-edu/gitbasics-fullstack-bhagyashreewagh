@@ -20,4 +20,7 @@ Steps to run the project after cloning from github:
 Simply open the index.html file and Go Live.
 
 
+Screenshots:
+
+
 
